@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Council of Health Insurance",
+    "type": "page",
+    "url": "https://www.chi.gov.sa/MediaCenter/News/Pages/default.aspx",
+    "topics": ["insurance", "regulation"],
+    "language": "ar"
+  },
+  {
+    "name": "Saudi Ministry of Health",
+    "type": "page",
+    "url": "https://www.moh.gov.sa/en/Ministry/MediaCenter/News/Pages/default.aspx",
+    "topics": ["healthcare", "policy"],
+    "language": "en"
+  },
+  {
+    "name": "Saudi Food and Drug Authority",
+    "type": "page",
+    "url": "https://www.sfda.gov.sa/en/news",
+    "topics": ["healthcare", "medicines", "devices"],
+    "language": "en"
+  },
+  {
+    "name": "CBAHI",
+    "type": "page",
+    "url": "https://www.cbahi.gov.sa/",
+    "topics": ["accreditation", "quality"],
+    "language": "ar"
+  }
+]

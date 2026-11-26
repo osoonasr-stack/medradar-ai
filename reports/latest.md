@@ -1,7 +1,7 @@
 # MedRadar AI
 ## Healthcare and Insurance Intelligence
 
-Generated: 2026-11-26 13:16 UTC
+Generated: 2026-11-26 18:58 UTC
 Total monitored items: 52
 
 ## Rules of use of the identity of the Authority
@@ -253,7 +253,7 @@ E-Services - Service Level Agreement Search Suggestions for you + Training + Ser
 - First detected: 2026-11-26T01:08:50.524965+00:00
 - Link: https://www.moh.gov.sa/userprofile/pages/default.aspx
 
-خطأ عذراً، لقد حدث خطأ حدث خطأ غير متوقع. صفحة صيانة أجزاء ويب : إذا كان لديك إذن، يمكنك استخدام هذه الصفحة لإغلاق أجزاء ويب بشكل مؤقت أو إزالة الإعدادات الشخصية. لمزيد من المعلومات، اتصل بمسؤول الموقع الخاص بك. تفاصيل فنية استكشاف أخطاء Microsoft SharePoint Foundation وإصلاحها. معرّف الارتباط: c4a252a2-a9c4-e03b-a5f1-3d6d6f0a6816 التاريخ والوقت: 16/06/48 04:15:47 م العودة إلى الموقع
+خطأ عذراً، لقد حدث خطأ حدث خطأ غير متوقع. صفحة صيانة أجزاء ويب : إذا كان لديك إذن، يمكنك استخدام هذه الصفحة لإغلاق أجزاء ويب بشكل مؤقت أو إزالة الإعدادات الشخصية. لمزيد من المعلومات، اتصل بمسؤول الموقع الخاص بك. تفاصيل فنية استكشاف أخطاء Microsoft SharePoint Foundation وإصلاحها. معرّف الارتباط: 53b652a2-2929-e03b-7b2a-f7ba1dd508d0 التاريخ والوقت: 16/06/48 09:57:33 م العودة إلى الموقع
 
 ---
 

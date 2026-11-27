@@ -1,7 +1,7 @@
 # MedRadar AI
 ## Healthcare and Insurance Intelligence
 
-Generated: 2026-11-27 01:15 UTC
+Generated: 2026-11-27 07:16 UTC
 Total monitored items: 52
 
 ## Rules of use of the identity of the Authority
@@ -33,7 +33,7 @@ Help and support | General Authority for Food and Drug Skip to main content An o
 - First detected: 2026-11-26T01:10:08.229499+00:00
 - Link: https://www.sfda.gov.sa/en/drugs_circulars_withdrawal
 
-Drugs circulars and withdrawal | General Authority for Food and Drug Skip to main content An official government website affiliated with the Government of the Kingdom of Saudi Arabia. How to verify Thu 26 Nov 2026 Beta version Official Saudi government website domains end with gov.sa All official websites of government entities in the Kingdom of Saudi Arabia end with.gov.sa. Official Reliable websites use HTTPS Ensure the website is using the HTTPS protocol. Registered with the Digital Governmen
+Drugs circulars and withdrawal | General Authority for Food and Drug Skip to main content An official government website affiliated with the Government of the Kingdom of Saudi Arabia. How to verify Fri 27 Nov 2026 Beta version Official Saudi government website domains end with gov.sa All official websites of government entities in the Kingdom of Saudi Arabia end with.gov.sa. Official Reliable websites use HTTPS Ensure the website is using the HTTPS protocol. Registered with the Digital Governmen
 
 ---
 
@@ -110,7 +110,7 @@ Scientific Magazines And Articles | General Authority for Food and Drug Skip to 
 - First detected: 2026-11-26T01:09:47.492422+00:00
 - Link: https://www.sfda.gov.sa/en/node/17859
 
-التعاون الدولي | General Authority for Food and Drug Skip to main content An official government website affiliated with the Government of the Kingdom of Saudi Arabia. How to verify Thu 26 Nov 2026 Beta version Official Saudi government website domains end with gov.sa All official websites of government entities in the Kingdom of Saudi Arabia end with.gov.sa. Official Reliable websites use HTTPS Ensure the website is using the HTTPS protocol. Registered with the Digital Government Authority unde
+التعاون الدولي | General Authority for Food and Drug Skip to main content An official government website affiliated with the Government of the Kingdom of Saudi Arabia. How to verify Fri 27 Nov 2026 Beta version Official Saudi government website domains end with gov.sa All official websites of government entities in the Kingdom of Saudi Arabia end with.gov.sa. Official Reliable websites use HTTPS Ensure the website is using the HTTPS protocol. Registered with the Digital Government Authority unde
 
 ---
 
@@ -253,7 +253,7 @@ E-Services - Service Level Agreement Search Suggestions for you + Training + Ser
 - First detected: 2026-11-26T01:08:50.524965+00:00
 - Link: https://www.moh.gov.sa/userprofile/pages/default.aspx
 
-خطأ عذراً، لقد حدث خطأ حدث خطأ غير متوقع. صفحة صيانة أجزاء ويب : إذا كان لديك إذن، يمكنك استخدام هذه الصفحة لإغلاق أجزاء ويب بشكل مؤقت أو إزالة الإعدادات الشخصية. لمزيد من المعلومات، اتصل بمسؤول الموقع الخاص بك. تفاصيل فنية استكشاف أخطاء Microsoft SharePoint Foundation وإصلاحها. معرّف الارتباط: eacb52a2-69d3-e03b-7b2a-f5e872ad73ac التاريخ والوقت: 17/06/48 04:14:54 ص العودة إلى الموقع
+خطأ عذراً، لقد حدث خطأ حدث خطأ غير متوقع. صفحة صيانة أجزاء ويب : إذا كان لديك إذن، يمكنك استخدام هذه الصفحة لإغلاق أجزاء ويب بشكل مؤقت أو إزالة الإعدادات الشخصية. لمزيد من المعلومات، اتصل بمسؤول الموقع الخاص بك. تفاصيل فنية استكشاف أخطاء Microsoft SharePoint Foundation وإصلاحها. معرّف الارتباط: 8fe052a2-4942-e03b-cb65-54a29e360f16 التاريخ والوقت: 17/06/48 10:15:39 ص العودة إلى الموقع
 
 ---
 

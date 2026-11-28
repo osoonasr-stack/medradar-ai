@@ -1,7 +1,7 @@
 # MedRadar AI
 ## Healthcare and Insurance Intelligence
 
-Generated: 2026-11-27 18:57 UTC
+Generated: 2026-11-28 01:09 UTC
 Total monitored items: 52
 
 ## Rules of use of the identity of the Authority
@@ -154,7 +154,7 @@ Executive Management | General Authority for Food and Drug Skip to main content 
 - First detected: 2026-11-26T01:09:25.743073+00:00
 - Link: https://www.sfda.gov.sa/en/board-of-directors
 
-Board of directors | General Authority for Food and Drug Skip to main content An official government website affiliated with the Government of the Kingdom of Saudi Arabia. How to verify Fri 27 Nov 2026 Beta version Official Saudi government website domains end with gov.sa All official websites of government entities in the Kingdom of Saudi Arabia end with.gov.sa. Official Reliable websites use HTTPS Ensure the website is using the HTTPS protocol. Registered with the Digital Government Authority 
+Board of directors | General Authority for Food and Drug Skip to main content An official government website affiliated with the Government of the Kingdom of Saudi Arabia. How to verify Sat 28 Nov 2026 Beta version Official Saudi government website domains end with gov.sa All official websites of government entities in the Kingdom of Saudi Arabia end with.gov.sa. Official Reliable websites use HTTPS Ensure the website is using the HTTPS protocol. Registered with the Digital Government Authority 
 
 ---
 
@@ -253,7 +253,7 @@ E-Services - Service Level Agreement Search Suggestions for you + Training + Ser
 - First detected: 2026-11-26T01:08:50.524965+00:00
 - Link: https://www.moh.gov.sa/userprofile/pages/default.aspx
 
-خطأ عذراً، لقد حدث خطأ حدث خطأ غير متوقع. صفحة صيانة أجزاء ويب : إذا كان لديك إذن، يمكنك استخدام هذه الصفحة لإغلاق أجزاء ويب بشكل مؤقت أو إزالة الإعدادات الشخصية. لمزيد من المعلومات، اتصل بمسؤول الموقع الخاص بك. تفاصيل فنية استكشاف أخطاء Microsoft SharePoint Foundation وإصلاحها. معرّف الارتباط: a90853a2-395b-e03b-7b2a-f9e72c0c7e07 التاريخ والوقت: 17/06/48 09:56:29 م العودة إلى الموقع
+خطأ عذراً، لقد حدث خطأ حدث خطأ غير متوقع. صفحة صيانة أجزاء ويب : إذا كان لديك إذن، يمكنك استخدام هذه الصفحة لإغلاق أجزاء ويب بشكل مؤقت أو إزالة الإعدادات الشخصية. لمزيد من المعلومات، اتصل بمسؤول الموقع الخاص بك. تفاصيل فنية استكشاف أخطاء Microsoft SharePoint Foundation وإصلاحها. معرّف الارتباط: fb1d53a2-9900-e03b-7b2a-f559cb7da632 التاريخ والوقت: 18/06/48 04:09:04 ص العودة إلى الموقع
 
 ---
 

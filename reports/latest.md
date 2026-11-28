@@ -1,7 +1,7 @@
 # MedRadar AI
 ## Healthcare and Insurance Intelligence
 
-Generated: 2026-11-28 07:08 UTC
+Generated: 2026-11-28 12:57 UTC
 Total monitored items: 52
 
 ## Rules of use of the identity of the Authority
@@ -33,7 +33,7 @@ Help and support | General Authority for Food and Drug Skip to main content An o
 - First detected: 2026-11-26T01:10:08.229499+00:00
 - Link: https://www.sfda.gov.sa/en/drugs_circulars_withdrawal
 
-Drugs circulars and withdrawal | General Authority for Food and Drug Skip to main content An official government website affiliated with the Government of the Kingdom of Saudi Arabia. How to verify Fri 27 Nov 2026 Beta version Official Saudi government website domains end with gov.sa All official websites of government entities in the Kingdom of Saudi Arabia end with.gov.sa. Official Reliable websites use HTTPS Ensure the website is using the HTTPS protocol. Registered with the Digital Governmen
+Drugs circulars and withdrawal | General Authority for Food and Drug Skip to main content An official government website affiliated with the Government of the Kingdom of Saudi Arabia. How to verify Sat 28 Nov 2026 Beta version Official Saudi government website domains end with gov.sa All official websites of government entities in the Kingdom of Saudi Arabia end with.gov.sa. Official Reliable websites use HTTPS Ensure the website is using the HTTPS protocol. Registered with the Digital Governmen
 
 ---
 
@@ -66,7 +66,7 @@ Guidelines | General Authority for Food and Drug Skip to main content An officia
 - First detected: 2026-11-26T01:10:07.381504+00:00
 - Link: https://www.sfda.gov.sa/en/regulations
 
-Laws and Regulations | General Authority for Food and Drug Skip to main content An official government website affiliated with the Government of the Kingdom of Saudi Arabia. How to verify Fri 27 Nov 2026 Beta version Official Saudi government website domains end with gov.sa All official websites of government entities in the Kingdom of Saudi Arabia end with.gov.sa. Official Reliable websites use HTTPS Ensure the website is using the HTTPS protocol. Registered with the Digital Government Authorit
+Laws and Regulations | General Authority for Food and Drug Skip to main content An official government website affiliated with the Government of the Kingdom of Saudi Arabia. How to verify Sat 28 Nov 2026 Beta version Official Saudi government website domains end with gov.sa All official websites of government entities in the Kingdom of Saudi Arabia end with.gov.sa. Official Reliable websites use HTTPS Ensure the website is using the HTTPS protocol. Registered with the Digital Government Authorit
 
 ---
 
@@ -88,7 +88,7 @@ Information Lists | General Authority for Food and Drug Skip to main content An 
 - First detected: 2026-11-26T01:09:56.905160+00:00
 - Link: https://www.sfda.gov.sa/en/eservices
 
-SFDA Services | General Authority for Food and Drug Skip to main content An official government website affiliated with the Government of the Kingdom of Saudi Arabia. How to verify Fri 27 Nov 2026 Beta version Official Saudi government website domains end with gov.sa All official websites of government entities in the Kingdom of Saudi Arabia end with.gov.sa. Official Reliable websites use HTTPS Ensure the website is using the HTTPS protocol. Registered with the Digital Government Authority under
+SFDA Services | General Authority for Food and Drug Skip to main content An official government website affiliated with the Government of the Kingdom of Saudi Arabia. How to verify Sat 28 Nov 2026 Beta version Official Saudi government website domains end with gov.sa All official websites of government entities in the Kingdom of Saudi Arabia end with.gov.sa. Official Reliable websites use HTTPS Ensure the website is using the HTTPS protocol. Registered with the Digital Government Authority under
 
 ---
 
@@ -110,7 +110,7 @@ Scientific Magazines And Articles | General Authority for Food and Drug Skip to 
 - First detected: 2026-11-26T01:09:47.492422+00:00
 - Link: https://www.sfda.gov.sa/en/node/17859
 
-التعاون الدولي | General Authority for Food and Drug Skip to main content An official government website affiliated with the Government of the Kingdom of Saudi Arabia. How to verify Fri 27 Nov 2026 Beta version Official Saudi government website domains end with gov.sa All official websites of government entities in the Kingdom of Saudi Arabia end with.gov.sa. Official Reliable websites use HTTPS Ensure the website is using the HTTPS protocol. Registered with the Digital Government Authority unde
+التعاون الدولي | General Authority for Food and Drug Skip to main content An official government website affiliated with the Government of the Kingdom of Saudi Arabia. How to verify Sat 28 Nov 2026 Beta version Official Saudi government website domains end with gov.sa All official websites of government entities in the Kingdom of Saudi Arabia end with.gov.sa. Official Reliable websites use HTTPS Ensure the website is using the HTTPS protocol. Registered with the Digital Government Authority unde
 
 ---
 
@@ -121,7 +121,7 @@ Scientific Magazines And Articles | General Authority for Food and Drug Skip to 
 - First detected: 2026-11-26T01:09:41.456701+00:00
 - Link: https://www.sfda.gov.sa/en/node/17855
 
-اللجنة الوطنية للتغذية | General Authority for Food and Drug Skip to main content An official government website affiliated with the Government of the Kingdom of Saudi Arabia. How to verify Fri 27 Nov 2026 Beta version Official Saudi government website domains end with gov.sa All official websites of government entities in the Kingdom of Saudi Arabia end with.gov.sa. Official Reliable websites use HTTPS Ensure the website is using the HTTPS protocol. Registered with the Digital Government Author
+اللجنة الوطنية للتغذية | General Authority for Food and Drug Skip to main content An official government website affiliated with the Government of the Kingdom of Saudi Arabia. How to verify Sat 28 Nov 2026 Beta version Official Saudi government website domains end with gov.sa All official websites of government entities in the Kingdom of Saudi Arabia end with.gov.sa. Official Reliable websites use HTTPS Ensure the website is using the HTTPS protocol. Registered with the Digital Government Author
 
 ---
 
@@ -143,7 +143,7 @@ Scientific Magazines And Articles | General Authority for Food and Drug Skip to 
 - First detected: 2026-11-26T01:09:31.042629+00:00
 - Link: https://www.sfda.gov.sa/en/executive-management
 
-Executive Management | General Authority for Food and Drug Skip to main content An official government website affiliated with the Government of the Kingdom of Saudi Arabia. How to verify Fri 27 Nov 2026 Beta version Official Saudi government website domains end with gov.sa All official websites of government entities in the Kingdom of Saudi Arabia end with.gov.sa. Official Reliable websites use HTTPS Ensure the website is using the HTTPS protocol. Registered with the Digital Government Authorit
+Executive Management | General Authority for Food and Drug Skip to main content An official government website affiliated with the Government of the Kingdom of Saudi Arabia. How to verify Sat 28 Nov 2026 Beta version Official Saudi government website domains end with gov.sa All official websites of government entities in the Kingdom of Saudi Arabia end with.gov.sa. Official Reliable websites use HTTPS Ensure the website is using the HTTPS protocol. Registered with the Digital Government Authorit
 
 ---
 
@@ -253,7 +253,7 @@ E-Services - Service Level Agreement Search Suggestions for you + Training + Ser
 - First detected: 2026-11-26T01:08:50.524965+00:00
 - Link: https://www.moh.gov.sa/userprofile/pages/default.aspx
 
-خطأ عذراً، لقد حدث خطأ حدث خطأ غير متوقع. صفحة صيانة أجزاء ويب : إذا كان لديك إذن، يمكنك استخدام هذه الصفحة لإغلاق أجزاء ويب بشكل مؤقت أو إزالة الإعدادات الشخصية. لمزيد من المعلومات، اتصل بمسؤول الموقع الخاص بك. تفاصيل فنية استكشاف أخطاء Microsoft SharePoint Foundation وإصلاحها. معرّف الارتباط: 843253a2-6976-e03b-7b2a-f5ee313df9c8 التاريخ والوقت: 18/06/48 10:07:58 ص العودة إلى الموقع
+خطأ عذراً، لقد حدث خطأ حدث خطأ غير متوقع. صفحة صيانة أجزاء ويب : إذا كان لديك إذن، يمكنك استخدام هذه الصفحة لإغلاق أجزاء ويب بشكل مؤقت أو إزالة الإعدادات الشخصية. لمزيد من المعلومات، اتصل بمسؤول الموقع الخاص بك. تفاصيل فنية استكشاف أخطاء Microsoft SharePoint Foundation وإصلاحها. معرّف الارتباط: 784653a2-391f-e03b-7b2a-f8813c6c06d7 التاريخ والوقت: 18/06/48 03:56:39 م العودة إلى الموقع
 
 ---
 
